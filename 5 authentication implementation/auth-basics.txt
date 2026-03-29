@@ -1,0 +1,11 @@
+Validation --> To see pattern of data like for eg: email should be not like 4646376 this it should be like 'test@something.com'
+
+verification --> user info is should verify like he is entering his own email that why we send otp
+
+
+authentication --> Identify from which user req is coming to server
+
+
+authorization --> you will authorize user what he can access and what not for eg: on spotify normal user can't create songs
+
+
